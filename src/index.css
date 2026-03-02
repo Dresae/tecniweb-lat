@@ -1,0 +1,143 @@
+/* Base styles and CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Light Theme Colors */
+  --light-green-1: #42ab91;
+  --light-green-2: #5ec9ae;
+  --light-gray-1: #E9ECEF;
+  --light-gray-2: #CED4DA;
+  --light-blue-1: #90E0EF;
+  --light-blue-2: #00B4D8;
+  
+  /* Dark Theme Colors */
+  --dark-green-1: #0ad9b0;
+  --dark-green-2: #48d27b;
+  --dark-gray-1: #343A40;
+  --dark-gray-2: #495057;
+  --dark-blue-1: #03045E;
+  --dark-blue-2: #0096C7;
+  
+  /* Common Colors */
+  --white: #FFFFFF;
+  --black: #000000;
+  
+  /* Spacing Variables */
+  --margin-sm: 0.5rem;
+  --margin-md: 1rem;
+  --margin-lg: 2rem;
+  
+  --gap-sm: 0.5rem;
+  --gap-md: 1rem;
+  --gap-lg: 2rem;
+  
+  --padding-sm: 0.5rem;
+  --padding-md: 1rem;
+  --padding-lg: 2rem;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: all 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.subtitle {
+  font-family: 'Rubik', sans-serif;
+}
+
+.creative-text {
+  font-family: 'Playpen Sans', cursive;
+}
+
+/* Light Theme */
+body.light-theme {
+  background-color: var(--white);
+  color: var(--black);
+}
+
+/* Dark Theme */
+body.dark-theme {
+  background-color: var(--black);
+  color: var(--white);
+}
+
+/* Common Styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--padding-md);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 var(--padding-sm);
+  }
+}
+
+/* Animation Classes */
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.slide-in {
+  animation: slideIn 0.5s ease-in;
+}
+
+@keyframes slideIn {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Gradient Backgrounds */
+.bg-light-1 {
+  background: linear-gradient(to right, var(--light-green-1), var(--light-green-2), var(--white));
+}
+
+.bg-light-2 {
+  background: linear-gradient(to right, var(--light-gray-1), var(--light-gray-2), var(--white));
+}
+
+.bg-light-3 {
+  background: linear-gradient(to right, var(--light-blue-1), var(--light-blue-2), var(--white));
+}
+
+.bg-dark-1 {
+  background: linear-gradient(to right, var(--dark-green-1), var(--dark-green-2), var(--black));
+}
+
+.bg-dark-2 {
+  background: linear-gradient(to right, var(--dark-gray-1), var(--dark-gray-2), var(--black));
+}
+
+.bg-dark-3 {
+  background: linear-gradient(to right, var(--dark-blue-1), var(--dark-blue-2), var(--black));
+}

@@ -1,0 +1,74 @@
+/* Breadcrumb Component Styles */
+.breadcrumb {
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.breadcrumb-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.breadcrumb-link {
+  color: #6c757d;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  color: #007bff;
+}
+
+.breadcrumb-active {
+  color: #343a40;
+  font-weight: 600;
+}
+
+.breadcrumb-separator {
+  margin: 0 8px;
+  color: #6c757d;
+  font-size: 0.8rem;
+}
+
+/* Dark theme styles */
+.dark-theme .breadcrumb {
+  background-color: #343a40;
+  border-bottom: 1px solid #495057;
+}
+
+.dark-theme .breadcrumb-link {
+  color: #adb5bd;
+}
+
+.dark-theme .breadcrumb-link:hover {
+  color: #ffffff;
+}
+
+.dark-theme .breadcrumb-active {
+  color: #ffffff;
+}
+
+.dark-theme .breadcrumb-separator {
+  color: #adb5bd;
+}
+
+/* Responsive styles */
+@media (max-width: 576px) {
+  .breadcrumb-item {
+    font-size: 0.8rem;
+  }
+  
+  .breadcrumb-separator {
+    margin: 0 5px;
+  }
+}
