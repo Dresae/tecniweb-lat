@@ -1,0 +1,165 @@
+{
+  "id": "conv_1755299305097_ht62r7h",
+  "createdAt": "2025-08-15T23:08:25.097Z",
+  "lastUpdated": "2025-08-15T23:09:45.633Z",
+  "messages": [
+    {
+      "text": "hola",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:08:25.111Z"
+    },
+    {
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta sobre nuestros servicios o soluciones en Tecniweb Latam?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:08:27.785Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "como se llama el fundador de tecniweb latam",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:08:46.020Z"
+    },
+    {
+      "text": "¡Hola! El fundador de Tecniweb Latam es Andy Amador, también conocido como HARE (Human Ambassador of Relationships & CEO). ¿Te gustaría saber algo más sobre él o sobre la empresa?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:08:49.333Z",
+      "sources": [
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "cuentame sobre la experiencia de andy amador",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:09:14.197Z"
+    },
+    {
+      "text": "¡Hola! Andy Amador, nuestro fundador y CEO, tiene una trayectoria muy interesante. Además de liderar Tecniweb desde 2023, cuenta con experiencia como Ingeniero de Despliegue en NICE, Especialista en Integración en HRS y Soporte Técnico IT en Microsoft. Su experiencia abarca desde la implementación de soluciones empresariales hasta la arquitectura de sistemas cloud-native y la integración de IA. ¿Te gustaría saber algo más específico sobre su experiencia?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:09:17.471Z",
+      "sources": [
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "de que universidad se graduo",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:09:42.661Z"
+    },
+    {
+      "text": "¡Hola! En la información que tengo disponible, Andy Amador cuenta con un título en Tecnología Mecatrónica y certificaciones en Cloud Computing y DevOps. No se especifica la universidad de la que se graduó. ¿Te gustaría saber algo más sobre su formación o experiencia?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:09:45.633Z",
+      "sources": [
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [
+      "desarrollo_web",
+      "aplicaciones_moviles",
+      "servicios",
+      "tecnologias"
+    ],
+    "summary": "hola"
+  }
+}

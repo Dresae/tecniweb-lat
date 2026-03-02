@@ -1,0 +1,54 @@
+{
+  "id": "conv_1755290176077_4uwz2ve",
+  "createdAt": "2025-08-15T20:36:16.077Z",
+  "lastUpdated": "2025-08-15T20:36:20.529Z",
+  "messages": [
+    {
+      "text": "¿Qué servicios ofrece Tecniweb?",
+      "isBot": false,
+      "timestamp": "2025-08-15T20:36:16.078Z"
+    },
+    {
+      "text": "¡Hola! En Tecniweb Latam ofrecemos una amplia gama de servicios tecnológicos que incluyen:\n\n*   Desarrollo web (sitios web corporativos, e-commerce, PWAs, CMS, diseño responsive y optimización SEO)\n*   Aplicaciones móviles (nativas e híbridas para iOS y Android)\n*   Software de escritorio (aplicaciones multiplataforma, sistemas de gestión empresarial y automatización de procesos)\n*   Implementación y customización de sistemas (CRM, ERP, integraciones y configuración de plataformas)\n*   Migraciones de sistemas legados a tecnologías modernas\n*   Integración con Inteligencia Artificial (chatbots, análisis predictivo, procesamiento de lenguaje natural y visión por computadora)\n*   Servicios Cloud & DevOps\n\n¿En cuál de estos servicios estás más interesado para darte más detalles?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:36:20.529Z",
+      "sources": [
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [
+      "desarrollo_web",
+      "aplicaciones_moviles",
+      "servicios",
+      "tecnologias"
+    ],
+    "summary": "¿Qué servicios ofrece Tecniweb?"
+  }
+}

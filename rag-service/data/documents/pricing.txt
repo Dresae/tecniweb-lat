@@ -1,0 +1,133 @@
+# Precios y Planes - Tecniweb Latam
+
+## Modelos de Contratación
+
+En Tecniweb Latam ofrecemos diferentes modelos de contratación para adaptarnos a las necesidades específicas de cada cliente:
+
+### Proyecto Completo
+
+Ideal para desarrollos con alcance bien definido.
+
+- **Características**:
+  * Presupuesto cerrado basado en requerimientos
+  * Cronograma definido con hitos de entrega
+  * Pago por etapas (anticipo + pagos por hitos)
+  * Incluye 3 meses de garantía
+
+- **Proceso**:
+  * Consulta inicial gratuita
+  * Propuesta detallada con alcance y cronograma
+  * Contrato con términos claros
+  * Desarrollo por fases con entregas parciales
+  * Entrega final con capacitación
+
+### Desarrollo por Horas
+
+Perfecto para proyectos con alcance variable o en constante evolución.
+
+- **Características**:
+  * Tarifa por hora de desarrollo
+  * Flexibilidad para ajustar prioridades
+  * Facturación quincenal o mensual
+  * Transparencia con registro detallado de horas
+
+- **Tarifas por Perfil** (aproximadas):
+  * Desarrollador Junior: $10.000-14.000 COP
+  * Desarrollador Senior: $16.000-24.000 COP
+  * Arquitecto de Software: $24.000-32.000 COP
+  * Diseñador UX/UI: $14.000-20.000 COP
+  * Project Manager: $18.000-26.000 COP
+
+### Retainer Mensual
+
+Ideal para soporte continuo y desarrollo evolutivo.
+
+- **Características**:
+  * Bolsa de horas mensuales garantizadas
+  * Equipo dedicado o parcialmente dedicado
+  * Contrato mínimo de 3-6 meses
+  * Descuentos por volumen de horas
+
+- **Planes**:
+  * Plan Básico: 40 horas/mes - Desde $640.000 COP
+  * Plan Estándar: 80 horas/mes - Desde $1.200.000 COP
+  * Plan Premium: 160 horas/mes - Desde $2.240.000 COP
+
+## Servicios Específicos
+
+### Desarrollo Web
+
+- **Sitio Web Corporativo**:
+  * Paquete Básico: $599.000 COP
+  * Paquete Semiprofesional: $899.000 COP
+  * Paquete Empresarial: $1.799.000 COP (anual)
+
+- **E-commerce**:
+  * Tienda Básica (hasta 100 productos): $1.200.000 COP
+  * Tienda Estándar (hasta 1,000 productos): $2.000.000 COP
+  * Tienda Avanzada (1,000+ productos): Desde $4.000.000 COP
+
+- **Aplicación Web Personalizada**:
+  * Complejidad Baja: $2.000.000 COP
+  * Complejidad Media: $4.000.000 COP
+  * Complejidad Alta: Desde $10.000.000 COP
+
+### Aplicaciones Móviles
+
+- **App Nativa (iOS o Android)**:
+  * Paquete Básico: $3.200.000 COP
+  * Paquete Estándar: $6.000.000 COP
+  * Paquete Premium: Desde $12.000.000 COP
+
+- **App Híbrida (iOS + Android)**:
+  * Paquete Básico: $4.000.000 COP
+  * Paquete Estándar: $8.000.000 COP
+  * Paquete Premium: Desde $16.000.000 COP
+
+### Software de Escritorio
+
+- **Aplicación Básica**: $2.000.000 COP
+- **Aplicación Estándar**: $6.000.000 COP
+- **Sistema Empresarial**: Desde $12.000.000 COP
+
+### Integración con IA
+
+- **Chatbot Básico**: $1.200.000 COP
+- **Asistente Virtual Avanzado**: $2.000.000 COP
+- **Sistema de Análisis Predictivo**: $4.000.000 COP
+- **Solución de IA Personalizada**: Desde $8.000.000 COP
+
+## Servicios de Mantenimiento
+
+### Planes de Soporte
+
+- **Plan Básico**:
+  * 5 horas/mes
+  * Tiempo de respuesta: 48 horas
+  * $80.000 COP
+
+- **Plan Estándar**:
+  * 10 horas/mes
+  * Tiempo de respuesta: 24 horas
+  * $160.000 COP
+
+- **Plan Premium**:
+  * 20 horas/mes
+  * Tiempo de respuesta: 8 horas
+  * $320.000 COP
+
+- **Plan Enterprise**:
+  * Horas ilimitadas
+  * Tiempo de respuesta: 4 horas
+  * Soporte 24/7
+  * Desde $800.000 COP
+
+## Notas Importantes
+
+- Todos los precios son aproximados y pueden variar según requerimientos específicos
+- Los proyectos incluyen 3 meses de garantía estándar
+- Ofrecemos descuentos para startups y organizaciones sin fines de lucro
+- Planes de financiamiento disponibles para proyectos grandes
+- Consulta gratuita inicial para evaluar necesidades y proporcionar cotización precisa
+
+Para obtener una cotización personalizada, contáctanos en digital@tecniweb.lat(tecniweblat@gmail.com) o agenda una reunión a través de nuestro sitio web.

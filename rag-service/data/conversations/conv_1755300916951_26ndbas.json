@@ -1,0 +1,164 @@
+{
+  "id": "conv_1755300916951_26ndbas",
+  "createdAt": "2025-08-15T23:35:16.951Z",
+  "lastUpdated": "2025-08-15T23:38:58.502Z",
+  "messages": [
+    {
+      "text": "hola",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:35:16.956Z"
+    },
+    {
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta sobre nuestros servicios o sobre Tecniweb Latam?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:35:19.888Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "nada parcero solo curioseando",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:35:41.547Z"
+    },
+    {
+      "text": "¡Qué más, parcero! Entiendo, solo echando un vistazo. 😉 Si te surge alguna duda o quieres saber algo en específico, no dudes en preguntar. ¡Estoy aquí para lo que necesites!\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:35:44.770Z",
+      "sources": [
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "listo panita",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:35:56.179Z"
+    },
+    {
+      "text": "¡Entendido, panita! 😉 Si en algún momento necesitas algo, ya sabes dónde encontrarme. ¡Que tengas un excelente día!\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:35:58.495Z",
+      "sources": [
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "hola",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:38:55.934Z"
+    },
+    {
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta sobre nuestros servicios o sobre Tecniweb Latam?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:38:58.502Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [
+      "desarrollo_web",
+      "aplicaciones_moviles",
+      "servicios"
+    ],
+    "summary": "hola"
+  }
+}

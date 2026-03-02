@@ -1,0 +1,48 @@
+# Preguntas Frecuentes (FAQs) - Tecniweb Latam
+
+## Sobre Nuestros Servicios
+
+### ¿Qué tipos de servicios ofrece Tecniweb Latam?
+Ofrecemos una amplia gama de servicios tecnológicos que incluyen desarrollo web, aplicaciones móviles, software de escritorio, implementación y customización de sistemas, migraciones de sistemas legados e integración con inteligencia artificial.
+
+### ¿Cuánto tiempo toma desarrollar un proyecto web?
+El tiempo de desarrollo varía según la complejidad del proyecto. Un sitio web corporativo básico puede estar listo en 2-3 semanas, mientras que aplicaciones web complejas pueden requerir de 2 a 6 meses. Durante la consulta inicial, proporcionamos un cronograma detallado basado en sus requerimientos específicos.
+
+### ¿Qué metodología de desarrollo utilizan?
+Utilizamos metodologías ágiles como Scrum y Kanban que permiten entregas incrementales, adaptación a cambios y comunicación constante con el cliente. Nuestro proceso incluye análisis de requerimientos, diseño centrado en el usuario, desarrollo iterativo, pruebas exhaustivas y entrega final con capacitación.
+
+### ¿Ofrecen mantenimiento después de finalizar el proyecto?
+Sí, ofrecemos planes de mantenimiento y soporte técnico para todos nuestros proyectos. Estos planes incluyen actualizaciones de seguridad, correcciones de errores, mejoras de rendimiento y soporte técnico. También ofrecemos servicios de hosting y administración de servidores.
+
+## Tecnologías y Soluciones
+
+### ¿Qué tecnologías utilizan para el desarrollo?
+Utilizamos tecnologías modernas y robustas como React, Angular y Vue.js para frontend; Node.js, Python y PHP para backend; React Native y Flutter para aplicaciones móviles; y diversas herramientas de IA como TensorFlow y PyTorch para soluciones de inteligencia artificial.
+
+### ¿Pueden integrar mi sistema existente con nuevas tecnologías?
+Sí, nos especializamos en integraciones de sistemas. Podemos conectar su infraestructura existente con nuevas tecnologías mediante APIs, webhooks y otros métodos de integración, asegurando una transición suave y sin pérdida de datos.
+
+### ¿Cómo implementan soluciones de IA en proyectos existentes?
+Implementamos IA mediante un proceso estructurado que incluye: evaluación de necesidades, identificación de áreas de oportunidad, selección de algoritmos apropiados, desarrollo de modelos personalizados, integración con sistemas existentes, pruebas exhaustivas y capacitación para su equipo.
+
+## Proceso de Trabajo
+
+### ¿Cómo inicia un proyecto con Tecniweb Latam?
+El proceso comienza con una consulta inicial donde analizamos sus necesidades y objetivos de negocio. Luego diseñamos una solución personalizada y presentamos un presupuesto. Una vez aprobado, implementamos la solución utilizando metodologías ágiles, realizamos pruebas exhaustivas y finalmente entregamos el producto con la capacitación correspondiente.
+
+### ¿Cómo garantizan la calidad de sus desarrollos?
+Implementamos prácticas de calidad en cada fase del desarrollo, incluyendo: revisión de código por pares, pruebas unitarias y de integración automatizadas, pruebas de usabilidad con usuarios reales, auditorías de seguridad y rendimiento, y un riguroso proceso de control de calidad antes de cada entrega.
+
+### ¿Qué sucede si necesito cambios durante el desarrollo?
+Nuestra metodología ágil está diseñada para adaptarse a cambios. Trabajamos en ciclos cortos (sprints) que permiten revisar el progreso regularmente e incorporar cambios. Los cambios menores dentro del alcance se implementan sin costo adicional, mientras que cambios mayores se evalúan y presupuestan por separado.
+
+## Costos y Pagos
+
+### ¿Cómo determinan el costo de un proyecto?
+El costo se determina en base a varios factores: complejidad técnica, tiempo estimado de desarrollo, número de funcionalidades, integraciones requeridas, diseño personalizado y recursos necesarios. Ofrecemos presupuestos detallados y transparentes después de la consulta inicial.
+
+### ¿Qué modalidades de pago ofrecen?
+Ofrecemos varias modalidades: pago por proyecto completo (con anticipo inicial y pagos por hitos), pago por horas de desarrollo (ideal para proyectos con alcance variable), y contratos de retainer mensual para servicios continuos. Aceptamos transferencias bancarias, tarjetas de crédito y otros métodos de pago electrónicos.
+
+### ¿Ofrecen algún tipo de garantía?
+Sí, todos nuestros desarrollos incluyen una garantía de 3 meses que cubre correcciones de errores y problemas técnicos. Además, ofrecemos contratos de mantenimiento extendido que garantizan el funcionamiento óptimo de su solución a largo plazo.

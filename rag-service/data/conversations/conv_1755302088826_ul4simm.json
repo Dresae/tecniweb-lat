@@ -1,0 +1,200 @@
+{
+  "id": "conv_1755302088826_ul4simm",
+  "createdAt": "2025-08-15T23:54:48.826Z",
+  "lastUpdated": "2025-08-15T23:56:29.842Z",
+  "messages": [
+    {
+      "text": "hola que tal",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:54:48.826Z"
+    },
+    {
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy? ¿Tienes alguna idea en mente que te gustaría transformar en software?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:54:51.747Z",
+      "sources": [
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "tengo un cosultorio medico",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:55:03.476Z"
+    },
+    {
+      "text": "¡Hola! Qué bien, un consultorio médico. Para entender mejor cómo podemos ayudarte, ¿qué tipo de soluciones te interesan? Podríamos hablar de:\n\n*   **Sistema de Citas Premium:** Para una agenda médica digital eficiente.\n*   **Portal para Pacientes:** Para que tus pacientes accedan a resultados, citas y más.\n\n¿Cuál de estas opciones te llama más la atención o tienes otra idea en mente?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:55:06.490Z",
+      "sources": [
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "quiero llevar un momnitoreo de las dosis que mis pacientes necesitan",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:55:38.134Z"
+    },
+    {
+      "text": "¡Hola! Entiendo, necesitas un sistema para llevar el monitoreo de las dosis de tus pacientes. En Tecniweb Latam podemos desarrollar un software a medida que te permita:\n\n*   Gestionar las dosis de cada paciente de forma individual.\n*   Enviar recordatorios automáticos para asegurar el cumplimiento del tratamiento.\n*   Generar informes de seguimiento para evaluar la efectividad de las dosis.\n\n¿Te gustaría que conversemos sobre cómo podríamos adaptar estas funcionalidades a las necesidades específicas de tu consultorio?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:55:42.165Z",
+      "sources": [
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "si claro",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:56:02.558Z"
+    },
+    {
+      "text": "¡Perfecto! Para darte una idea más clara, ¿qué tipo de consultorio médico tienes? (¿general, especializado?) y ¿cuántos pacientes manejas aproximadamente al mes? Así puedo darte opciones más específicas sobre cómo podríamos ayudarte con el monitoreo de dosis.\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:56:05.983Z",
+      "sources": [
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "me gustaria el correo de tecniweb latam para contactarlos",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:56:26.570Z"
+    },
+    {
+      "text": "¡Hola! Claro que sí, nuestro correo es digital@tecniweb.lat(tecniweblat@gmail.com). ¿Te ayudo con algo más?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:56:29.842Z",
+      "sources": [
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [
+      "desarrollo_web",
+      "aplicaciones_moviles"
+    ],
+    "summary": "hola que tal"
+  }
+}

@@ -1,0 +1,73 @@
+## Fundador de Tecniweb Latam
+
+### Información Personal
+- **Nombre**: Andy Amador
+- **Cargo**: HARE - Human Ambassador of Relationships & CEO
+- **Origen**: Cartagena, Colombia
+- **Nacimiento**: 1 de mayo de 1992
+- **Sede Actual**: Funza, Colombia
+- **Contacto**: 
+  * Email: coordinador@tecniweb.lat
+  * LinkedIn: www.linkedin.com/in/andre-amador-da
+
+### Trayectoria Profesional
+#### Experiencia Actual
+- **2023 - Presente: Fundador y CEO de Tecniweb**
+  * Desarrollo e implementación de soluciones empresariales
+  * Arquitectura de sistemas cloud-native
+  * Integración de IA en soluciones empresariales
+  * Consultoría estratégica en transformación digital
+
+#### Experiencia Previa
+- **2023 - 2024: Ingeniero de Despliegue - NICE**
+  * Implementación de motores de análisis NLP
+  * Servicios web distribuidos en ecosistemas híbridos
+  * Migraciones personalizadas según requisitos
+  * Resolución de problemas en procedimientos DB
+
+- **2023: Especialista en Integración - HRS**
+  * Despliegue de sistemas PMS, POS y APIs de pago
+  * +100 implementaciones exitosas en EE.UU.
+  * Soporte técnico especializado
+  * Testing en entornos controlados
+
+- **2022: Soporte Técnico IT - Microsoft**
+  * Configuración de Windows y servidores
+  * Gestión de Active Directory y GPO
+  * Administración de certificados
+  * Soporte de red empresarial
+
+### Expertise Técnica
+- **Stack Principal**:
+  * Frontend: React, Uvicorn
+  * Backend: Python (FastAPI, Django), Node.js
+  * Bases de Datos: PostgreSQL, MongoDB, sqlite, mysql
+  * Cloud: AWS, Docker, Kubernetes
+
+### Visión Personal
+- **Misión**:
+  * Democratizar el acceso a tecnología empresarial
+  * Impulsar la transformación digital en LATAM
+  * Crear soluciones escalables y accesibles
+  * Fomentar la innovación local
+
+- **Historia de Transformación**:
+  "Mi década de experiencia en el sector automotriz me enseñó la importancia fundamental de la resolución de problemas y el servicio al cliente. Esta base me impulsó a embarcarme en el viaje de la ingeniería de software, donde cada desafío es una oportunidad para innovar y crear soluciones que verdaderamente impacten a las empresas locales."
+
+### Formación Académica
+- **Títulos**:
+  * Tecnología Mecatrónica
+  * Certificaciones en Cloud Computing y DevOps
+
+### Logros Destacados
+- **Impacto Empresarial**:
+  * Desarrollo de más de 50 soluciones empresariales
+  * Implementación de sistemas en 5 países
+  * 95% de satisfacción de clientes
+
+### Contribuciones a la Comunidad
+- **Iniciativas**:
+  * Mentoría a emprendedores tecnológicos
+  * Workshops gratuitos de programación
+  * Colaboración con universidades locales
+  * Programas de prácticas profesionales

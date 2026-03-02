@@ -1,0 +1,308 @@
+{
+  "id": "conv_1755291394646_q6y6lt1",
+  "createdAt": "2025-08-15T20:56:34.646Z",
+  "lastUpdated": "2025-08-15T21:07:06.662Z",
+  "messages": [
+    {
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta específica sobre Tecniweb Latam o nuestros servicios?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:56:37.013Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "a que se dedica tecniweb latam",
+      "isBot": false,
+      "timestamp": "2025-08-15T20:57:20.042Z"
+    },
+    {
+      "text": "¡Hola! En Tecniweb Latam nos dedicamos a ofrecer soluciones tecnológicas integrales. ¿Te interesaría saber más sobre desarrollo web, aplicaciones móviles, software de escritorio, o quizás sobre cómo integramos la inteligencia artificial en nuestros proyectos? Cuéntame un poco más sobre lo que te interesa y te daré detalles más precisos.\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:57:22.696Z",
+      "sources": [
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "que precio tiene una pagina sencilla con integracion de ia",
+      "isBot": false,
+      "timestamp": "2025-08-15T20:57:48.860Z"
+    },
+    {
+      "text": "¡Hola! Para una página sencilla con integración de IA, tenemos varias opciones. Podríamos empezar con un chatbot básico por $1.200.000 COP o un asistente virtual avanzado por $2.000.000 COP. ¿Qué tipo de funcionalidades de IA te gustaría integrar exactamente? Así puedo darte una cotización más precisa.\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:57:52.884Z",
+      "sources": [
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "excelente, me gustaria saber un correo para contactarlos",
+      "isBot": false,
+      "timestamp": "2025-08-15T20:58:22.714Z"
+    },
+    {
+      "text": "¡Hola! Claro que sí, puedes contactarnos directamente a digital@tecniweb.lat(tecniweblat@gmail.com). ¿Necesitas algo más en este momento?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:58:25.454Z",
+      "sources": [
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "en que horarios y dias trabajan",
+      "isBot": false,
+      "timestamp": "2025-08-15T20:58:38.656Z"
+    },
+    {
+      "text": "¡Hola! Trabajamos de lunes a viernes de 8:00 AM a 6:00 PM (GMT-5). Además, nuestro equipo está disponible de 9:00 am a 4:00 pm los días laborables y de 9:00 am a 1:00 pm los fines de semana. ¿Te puedo ayudar con algo más?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:58:41.425Z",
+      "sources": [
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "cuanto tiempo se demorarian desarrollando un app en ios de envio de comidas rapidas",
+      "isBot": false,
+      "timestamp": "2025-08-15T20:59:20.223Z"
+    },
+    {
+      "text": "¡Hola! El tiempo de desarrollo de una app en iOS de envío de comidas rápidas dependerá mucho de las funcionalidades que necesites, pero generalmente podría tomar entre 3 y 6 meses. ¿Tienes alguna característica específica en mente que te gustaría incluir? Así puedo darte una estimación más precisa.\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T20:59:24.434Z",
+      "sources": [
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "si claro me gustaria que los usuarios puedan agregar productos a su canasta de compra",
+      "isBot": false,
+      "timestamp": "2025-08-15T21:06:25.029Z"
+    },
+    {
+      "text": "¡Hola! Perfecto, que los usuarios puedan agregar productos a su canasta de compra es una funcionalidad estándar en este tipo de apps. ¿Te gustaría también que puedan pagar directamente desde la app y rastrear sus pedidos en tiempo real? Conocer estos detalles me ayudaría a darte un tiempo de desarrollo más exacto.\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T21:06:28.472Z",
+      "sources": [
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "claro, agregar las funcionalidades. cuanto costaria asi y cuanto se demorarian en desarrollarla",
+      "isBot": false,
+      "timestamp": "2025-08-15T21:07:02.455Z"
+    },
+    {
+      "text": "¡Hola! Con esas funcionalidades adicionales, el desarrollo de la app podría estar en un rango de $6.000.000 a $12.000.000 COP y tomar entre 4 y 7 meses. ¿Te gustaría que desglosemos un poco más el presupuesto y el cronograma para que tengas una idea más clara?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T21:07:06.662Z",
+      "sources": [
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Modelo de Operación de Tecniweb Latam",
+          "source": "operations.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [
+      "desarrollo_web",
+      "aplicaciones_moviles",
+      "precios",
+      "servicios"
+    ],
+    "summary": "a que se dedica tecniweb latam"
+  }
+}

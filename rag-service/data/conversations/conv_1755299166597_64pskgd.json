@@ -1,0 +1,17 @@
+{
+  "id": "conv_1755299166597_64pskgd",
+  "createdAt": "2025-08-15T23:06:06.597Z",
+  "lastUpdated": "2025-08-15T23:06:06.601Z",
+  "messages": [
+    {
+      "text": "hola",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:06:06.601Z"
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [],
+    "summary": "hola"
+  }
+}

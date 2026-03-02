@@ -1,0 +1,17 @@
+{
+  "id": "conv_1755299106333_1b5t50k",
+  "createdAt": "2025-08-15T23:05:06.333Z",
+  "lastUpdated": "2025-08-15T23:05:06.347Z",
+  "messages": [
+    {
+      "text": "hola",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:05:06.346Z"
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [],
+    "summary": "hola"
+  }
+}

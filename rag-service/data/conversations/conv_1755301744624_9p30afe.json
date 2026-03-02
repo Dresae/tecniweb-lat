@@ -1,0 +1,309 @@
+{
+  "id": "conv_1755301744624_9p30afe",
+  "createdAt": "2025-08-15T23:49:04.624Z",
+  "lastUpdated": "2025-08-15T23:52:26.849Z",
+  "messages": [
+    {
+      "text": "¡Hola! El fundador de Tecniweb Latam es Andy Amador, nuestro HARE (Human Ambassador of Relationships) & CEO. ¿Te gustaría saber algo más sobre él o sobre la empresa?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:49:20.583Z",
+      "sources": [
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "cuentame sobre la empresa",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:49:34.542Z"
+    },
+    {
+      "text": "¡Hola! Tecniweb Latam es una empresa de desarrollo de software y soluciones digitales fundada en 2023 en Funza, Colombia. Nos enfocamos en ofrecer soluciones innovadoras que impulsen el crecimiento de las empresas latinoamericanas.\n\n¿Qué tipo de soluciones te interesan? Podemos hablar de:\n\n*   **Desarrollo de Software:** Aplicaciones web, sistemas de gestión personalizados, integraciones con APIs, etc.\n*   **Consultoría Tecnológica:** Transformación digital, arquitectura de sistemas, optimización de procesos, etc.\n*   **Servicios en la Nube:** Migración a la nube, arquitecturas serverless, soluciones híbridas, etc.\n\nO si tienes un sector en mente, como restaurantes, centros de terapia, o estudios de arquitectura, también puedo contarte sobre las soluciones específicas que tenemos para ellos. ¡Cuéntame qué te interesa más!\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:49:38.406Z",
+      "sources": [
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "cuanto me cistaria implementar un chatbot como tu en mi propia pagina web",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:50:15.285Z"
+    },
+    {
+      "text": "¡Hola! Implementar un chatbot básico como yo en tu página web tiene un costo de $1.200.000 COP. ¿Te gustaría saber qué incluye este chatbot o si te interesaría un asistente virtual más avanzado?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:50:19.060Z",
+      "sources": [
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "si porfavor",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:50:28.116Z"
+    },
+    {
+      "text": "¡Hola! Un asistente virtual avanzado tiene un costo de $2.000.000 COP. Este tipo de asistente ofrece funcionalidades más complejas y personalizadas que un chatbot básico.\n\n¿Te gustaría conocer las diferencias entre ambos para que puedas elegir el que mejor se adapte a tus necesidades?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:50:31.253Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "cuentame las diferencias",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:50:44.242Z"
+    },
+    {
+      "text": "¡Hola! Claro que sí, te cuento las diferencias entre un chatbot básico y un asistente virtual avanzado:\n\n**Chatbot Básico:**\n\n*   **Costo:** $1.200.000 COP\n*   **Funcionalidades:**\n    *   Respuestas predefinidas a preguntas frecuentes.\n    *   Automatización de tareas sencillas.\n    *   Interacción limitada con el usuario.\n*   **Ideal para:**\n    *   Resolver dudas comunes de los clientes.\n    *   Proporcionar información general sobre tu empresa.\n    *   Redirigir a los usuarios a las secciones relevantes de tu sitio web.\n\n**Asistente Virtual Avanzado:**\n\n*   **Costo:** $2.000.000 COP\n*   **Funcionalidades:**\n    *   Mayor capacidad de comprensión del lenguaje natural.\n    *   Personalización de respuestas según el contexto.\n    *   Integración con otros sistemas y bases de datos.\n    *   Aprendizaje automático para mejorar la interacción con el tiempo.\n*   **Ideal para:**\n    *   Ofrecer una experiencia de usuario más personalizada.\n    *   Automatizar tareas complejas, como reservas o gestión de pedidos.\n    *   Proporcionar soporte técnico avanzado.\n    *   Analizar datos para mejorar la toma de decisiones.\n\nEn resumen, un chatbot básico es una solución más sencilla y económica para automatizar tareas básicas, mientras que un asistente virtual avanzado ofrece una experiencia más completa y personalizada, con capacidades de aprendizaje y análisis.\n\n¿Cuál de estas opciones te parece más adecuada para tu página web? ¿O tienes alguna otra pregunta?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:50:48.955Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "cuanto tiempo se demoraria desarrollar un chatbot avanzaado para mi empresa",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:51:44.890Z"
+    },
+    {
+      "text": "¡Hola! El tiempo de desarrollo de un chatbot avanzado para tu empresa dependerá de la complejidad y las funcionalidades específicas que necesites, pero generalmente toma entre 2 a 6 meses. ¿Te gustaría que agendemos una consulta inicial para analizar tus requerimientos y darte un cronograma más preciso?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:51:48.677Z",
+      "sources": [
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Preguntas Frecuentes (FAQs) - Tecniweb Latam",
+          "source": "faqs.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "si porfavor",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:52:01.371Z"
+    },
+    {
+      "text": "¡Hola! ¡Excelente! Puedes agendar una reunión gratuita con nuestro equipo a través de este enlace: [https://calendar.app.google/JPXy3u1d2ghtHEw5A](https://calendar.app.google/JPXy3u1d2ghtHEw5A). Así podremos discutir tus necesidades en detalle y ofrecerte una solución a medida. ¿Te ayudo con algo más?\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:52:04.422Z",
+      "sources": [
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Precios y Planes - Tecniweb Latam",
+          "source": "pricing.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Productos y Servicios de Tecniweb Latam",
+          "source": "product&services.txt",
+          "relevance": 1
+        }
+      ]
+    },
+    {
+      "text": "eso era todo gracias",
+      "isBot": false,
+      "timestamp": "2025-08-15T23:52:23.930Z"
+    },
+    {
+      "text": "¡Perfecto! Si tienes alguna otra pregunta en el futuro, no dudes en contactarnos. ¡Que tengas un excelente día!\n",
+      "isBot": true,
+      "timestamp": "2025-08-15T23:52:26.849Z",
+      "sources": [
+        {
+          "title": "Fundador de Tecniweb Latam",
+          "source": "founder.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam: Empresa de Soluciones Tecnológicas",
+          "source": "company.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información completa de Tecniweb Latam - payment-links",
+          "source": "payment-links.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Tecniweb Latam",
+          "source": "data.txt",
+          "relevance": 1
+        },
+        {
+          "title": "Información de Contacto - Tecniweb Latam",
+          "source": "contacts.txt",
+          "relevance": 1
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "userInfo": {},
+    "topics": [
+      "desarrollo_web",
+      "aplicaciones_moviles",
+      "precios",
+      "servicios",
+      "tecnologias"
+    ],
+    "summary": "cuentame sobre la empresa"
+  }
+}
